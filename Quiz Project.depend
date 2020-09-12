@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1569587329 source:c:\users\elijah jr\downloads\mikel\mi-games\quiz project\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<limits>
+	"Questions.h"
+	<conio.h>
+	<windows.h>
+
+1565003465 c:\users\elijah jr\downloads\mikel\mi-games\quiz project\questions.h
+
+1565003465 source:c:\users\elijah jr\downloads\mikel\mi-games\quiz project\questions.cpp
+	"Questions.h"
+	<iostream>
+
+1562676311 c:\users\elijah jr\downloads\mikel\mi-games\quiz project\answers.h
+	"Questions.h"
+	<iostream>
+
+1562676038 source:c:\users\elijah jr\downloads\mikel\mi-games\quiz project\answers.cpp
+	"Answers.h"
+	"Questions.h"
+	<iostream>
+
