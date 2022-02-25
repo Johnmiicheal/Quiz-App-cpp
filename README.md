@@ -3,12 +3,10 @@
 
 A simple quiz app with C++
 
-
-The simple there is the questions quality... Very simple.
-The questions are not great, but you can upload more tougher questions and answers.
+The only thing simple is the questions...but don't worry, you can upload more harder questions by editing the Questions and Answers .cpp and .h files
 
 
-Consists mainly of OOP techniques... Classes and Header files that holds the questions and answers.
-
+A test on my understanding of OOP's in C++
+PS: I think I did a good job
 
 
